@@ -10,7 +10,9 @@ public class App {
     	int c=a+b;
     	System.out.println("Addition: "+c);
     	System.out.println("Demo for Git Accounnt");
-    	
+    	int d=a-b;
+    	System.out.println("Subtraction: "+d);
+    	System.out.println("Demo from phase3");
     	
     }
 }

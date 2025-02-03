@@ -13,6 +13,8 @@ public class App {
     	int d=a-b;
     	System.out.println("Subtraction: "+d);
     	System.out.println("Demo from phase3");
+	int e=a*b;
+    	System.out.println("Multiplication: "+e);
     	
     }
 }
